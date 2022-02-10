@@ -4,7 +4,7 @@
 I just love **bold text**.
 
 Italicized text is the *cat's meow*.
-This is really***very***important text.
+This is really ***very*** important text.
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 
