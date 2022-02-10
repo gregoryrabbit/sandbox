@@ -14,7 +14,7 @@ At the command prompt, type `nano`.
 1. first
 2. second
 
-    ![](http://codekeyboards.com/img/code-104-bright-backlit.jpg)
+    !(http://codekeyboards.com/img/code-104-bright-backlit.jpg)
     
     **figure 1** the new keyboard..wonder if it's good
 
