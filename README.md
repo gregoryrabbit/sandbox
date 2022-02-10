@@ -14,7 +14,8 @@ At the command prompt, type `nano`.
 1. first
 2. second
 
-    !(http://codekeyboards.com/img/code-104-bright-backlit.jpg)
+![https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTYyNDg1MjE3MTI1Mjc5Mzk4/topic-london-gettyimages-760251843-promo.jpg]
+
     
     **figure 1** the new keyboard..wonder if it's good
 
